@@ -1,0 +1,4 @@
+/blackjack-game
+    /blackjack.py      # Main game code
+    /test_blackjack.py # Unit tests
+    /README.md         # Project documentation
