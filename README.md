@@ -13,7 +13,7 @@ A simple console-based game of Blackjack implemented in Python. The game allows 
 
 1. Clone this repository.
 2. Ensure you have Python 3.x installed.
-3. Run the game using the command:
+3. Run the game using the command: python -m unittest test_blackjack.py
 
 ```bash
 python blackjack.py
