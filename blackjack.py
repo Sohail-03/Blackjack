@@ -107,7 +107,7 @@ class BlackjackGame:
         elif self.player_hand.value < self.dealer_hand.value:
             print("\nDealer wins!")
         else:
-            print("\nIt's a tie!")
+            print("\nPush!")
 
 # Main function to play the game
 def play_game():
